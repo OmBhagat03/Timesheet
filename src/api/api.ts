@@ -54,3 +54,4 @@ export const saveEntries = async (week: number, updated: Entry[]): Promise<{ suc
   entries = [...entries.filter((e) => e.week !== week), ...updated];
   return { success: true };
 };
+

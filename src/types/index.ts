@@ -26,3 +26,4 @@ export interface Entry {
   date: string;
   tasks: Task[];
 }
+

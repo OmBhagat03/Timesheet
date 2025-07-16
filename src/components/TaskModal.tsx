@@ -48,3 +48,4 @@ const TaskModal: React.FC<Props> = ({ date, closeModal, onSubmit }) => {
 };
 
 export default TaskModal;
+
