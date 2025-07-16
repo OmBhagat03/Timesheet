@@ -1,0 +1,17 @@
+[
+  {
+    "week": 4,
+    "date": "2024-01-21",
+    "tasks": [
+      { "id": 1, "project": "Website Redesign", "type": "Development", "description": "Homepage layout update", "hours": 4 },
+      { "id": 2, "project": "Website Redesign", "type": "Development", "description": "Add hero section animations", "hours": 4 }
+    ]
+  },
+  {
+    "week": 4,
+    "date": "2024-01-22",
+    "tasks": [
+      { "id": 3, "project": "Website Redesign", "type": "Bug Fix", "description": "Fix navbar overlap issue", "hours": 4 }
+    ]
+  }
+]
