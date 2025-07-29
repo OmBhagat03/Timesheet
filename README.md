@@ -29,7 +29,7 @@ A simple timesheet tracking app built using **React**, **TypeScript**, and **Tai
 
 ## 🚀 Online Demo
 
-[Click here to view the live demo](https://vercel.com/oms-projects-6857f81a/timesheet)
+[Click here to view the live demo](https://timesheet-pearl.vercel.app/)
 
 ---
 
